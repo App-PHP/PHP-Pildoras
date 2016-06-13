@@ -45,7 +45,7 @@ if($resultado1){
 }
 
 
-echo "<br><br>- Ejemplo de la funcion <code>strcasecmp</code><br>.";
+echo "<br><br>- Ejemplo de la funcion <code>strcasecmp</code>.<br>";
 if($resultado2){
     echo "Según la función strcasecmp, $var1 y $var2 son diferentes.<br>";
 }else{
