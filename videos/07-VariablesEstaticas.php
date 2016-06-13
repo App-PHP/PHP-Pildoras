@@ -8,7 +8,7 @@
 echo "<h2>Variables estáticas</h2>";
 echo "- En PHP las variables estaticas son aquellas que su creacion solo se ejecuta una vez y perduran despues de finalizar la funcion donde fueron credas.<br>";
 
-echo "- Para que una variable tenga este comprtamiento se debe anteponer en su creacion la palabra reservada<code>static</code>.<br>";
+echo "- Para que una variable tenga este comportamiento se debe anteponer en su creacion la palabra reservada <code>static</code>.<br>";
 
 echo "- Ejemplo.<br><br><br>";
 
