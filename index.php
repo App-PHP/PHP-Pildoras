@@ -1,6 +1,6 @@
 <?php
 require("config/config.php");
 require("html/head.html");
-require("videos/09-OperadoresComparacion.php");
+require("videos/10-Constantes.php");
 include("html/foot.html");
 
