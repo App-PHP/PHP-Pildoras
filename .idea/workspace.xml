@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae091c92-e192-48e8-bf26-8a7a31895847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/09-validaciones.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/10-Constantes.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/videos/09- trabajo_operadores.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/1/11-Operadores.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/1/11-ejemplo_operadores.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/1/12-Calculadora.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/1/12-OperadoresMatematicosII.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/1/12-ejemplo_operadores.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/09-OperadoresComparacion.php" afterPath="$PROJECT_DIR$/videos/09-OperadoresComparacion.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/04-echoAndPrint.php" afterPath="$PROJECT_DIR$/videos/0/04-echoAndPrint.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/06-AmbioVariables.php" afterPath="$PROJECT_DIR$/videos/0/06-AmbioVariables.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/07-VariablesEstaticas.php" afterPath="$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/08-String.php" afterPath="$PROJECT_DIR$/videos/0/08-String.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/09-OperadoresComparacion.php" afterPath="$PROJECT_DIR$/videos/0/09-OperadoresComparacion.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/09-validaciones.php" afterPath="$PROJECT_DIR$/videos/0/09-validaciones.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/videos/10-Constantes.php" afterPath="$PROJECT_DIR$/videos/1/10-Constantes.php" />
     </list>
     <ignored path="PHP-Pildoras.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,19 +43,21 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="50">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10-Constantes.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videos/10-Constantes.php">
+      <file leaf-file-name="12-Calculadora.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/videos/1/12-Calculadora.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="409">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,8 +77,18 @@
         <option value="$PROJECT_DIR$/videos/09- trabajo_operadores.php" />
         <option value="$PROJECT_DIR$/videos/09-OperadoresComparacion.php" />
         <option value="$PROJECT_DIR$/videos/09-validaciones.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/videos/10-Constantes.php" />
+        <option value="$PROJECT_DIR$/videos/1/ssssssssssss.php" />
+        <option value="$PROJECT_DIR$/videos/1/11-ejemplo_operadores.php" />
+        <option value="$PROJECT_DIR$/videos/1/11-Calculadora.php" />
+        <option value="$PROJECT_DIR$/videos/1/11-ejemplo_operadores.html" />
+        <option value="$PROJECT_DIR$/videos/1/12.OperadoresMatemáticosII.php" />
+        <option value="$PROJECT_DIR$/videos/1/12-ejemplo_operadores.html" />
+        <option value="$PROJECT_DIR$/videos/1/12-OperadoresMatemáticosII.php" />
+        <option value="$PROJECT_DIR$/videos/1/12-OperadoresMatematicosII.php" />
+        <option value="$PROJECT_DIR$/videos/1/11-Operadores.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/videos/1/12-Calculadora.php" />
       </list>
     </option>
   </component>
@@ -173,6 +193,28 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="1">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="PHP-Pildoras">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="videos">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="0">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -200,7 +242,12 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\PHP-Pildoras\videos\00" />
+      <recent name="D:\wamp\www\PHP-Pildoras\videos\01" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\PHP-Pildoras\videos\1" />
       <recent name="D:\wamp\www\PHP-Pildoras\videos" />
       <recent name="D:\wamp\www\PHP-Pildoras" />
     </key>
@@ -258,7 +305,7 @@
       <workItem from="1465838017977" duration="491000" />
       <workItem from="1465849591884" duration="3846000" />
       <workItem from="1465906044432" duration="2358000" />
-      <workItem from="1466009537998" duration="2936000" />
+      <workItem from="1466009537998" duration="10053000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1465502007445</created>
@@ -274,17 +321,24 @@
       <option name="project" value="LOCAL" />
       <updated>1465591359370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10. Variables globales">
+      <created>1466018797579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466018797579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15511000" />
+    <option name="totallyTimeSpent" value="22628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.193125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899868" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -316,9 +370,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Commit inicial" />
     <MESSAGE value="07. Ambito de varialbes" />
-    <option name="LAST_COMMIT_MESSAGE" value="07. Ambito de varialbes" />
+    <MESSAGE value="10. Variables globales" />
+    <option name="LAST_COMMIT_MESSAGE" value="10. Variables globales" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -341,10 +398,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/09-OperadoresComparacion.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/09-OperadoresComparacion.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465910352844" expanded="true" signature="668:1263" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="709:1255" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="718:879" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="752:869" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="888:1041" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="920:1031" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="1050:1104" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="1113:1244" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -356,7 +423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/07-VariablesEstaticas.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
@@ -371,7 +438,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/07-VariablesEstaticas.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -386,7 +453,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/07-VariablesEstaticas.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -445,28 +512,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/04-echoAndPrint.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/04-echoAndPrint.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/06-AmbioVariables.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/06-AmbioVariables.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/07-VariablesEstaticas.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/08-String.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/08-String.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
@@ -474,33 +541,97 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos/09- trabajo_operadores.php" />
-    <entry file="file://$PROJECT_DIR$/videos/09-validaciones.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/09-validaciones.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/09-OperadoresComparacion.php">
+    <entry file="file://$PROJECT_DIR$/videos/0/09-OperadoresComparacion.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <marker date="1465910352844" expanded="true" signature="668:1263" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="709:1255" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="718:879" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="752:869" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="888:1041" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="920:1031" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="1050:1104" ph="..." />
+            <marker date="1465910352844" expanded="true" signature="1113:1244" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/ssssssssssss.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/10-Constantes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="101" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/12-ejemplo_operadores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/12-OperadoresMatematicosII.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/11-ejemplo_operadores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/11-Operadores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1466027328417" expanded="true" signature="105:288" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="50">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/10-Constantes.php">
+    <entry file="file://$PROJECT_DIR$/videos/1/12-Calculadora.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="409">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
