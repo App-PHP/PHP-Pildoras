@@ -73,4 +73,3 @@ usando algo como <code>$resultado = (int)$num2;</code>');
 
 $num2 = "10";
 $resultado = (int)$num2;
-
