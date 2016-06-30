@@ -58,4 +58,19 @@ switch (true) {
         echo "otro";
 }
 
-echo "<br>- Es fundamental poner el <code>switch (true) {</code> para iniciar la linea.<br>";
+echo "<br>- Es fundamental poner el <code>switch (true) {...}</code> para iniciar la linea.<br>";
+echo "<br><br><br>";
+
+echo "<br>- Para usar una acción para varios casos, se procede así:<br>";
+echo "- Ejemplo.<br><br><br>";
+$beer = "tuborg";
+switch ($beer) {
+    case 'tuborg';
+    case 'carlsberg';
+    case 'heineken';
+        echo 'Buena elección';
+        break;
+    default;
+        echo 'Por favor haga una nueva selección...';
+        break;
+}
