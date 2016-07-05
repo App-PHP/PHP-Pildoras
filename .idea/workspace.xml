@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae091c92-e192-48e8-bf26-8a7a31895847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/2/20-Funciones.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/2/21-FuncionesParametrosPorValorYPorReferencia.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="PHP-Pildoras.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -411,7 +408,7 @@
       <workItem from="1467240013117" duration="1443000" />
       <workItem from="1467295549497" duration="2537000" />
       <workItem from="1467317498584" duration="825000" />
-      <workItem from="1467746001165" duration="3305000" />
+      <workItem from="1467746001165" duration="3380000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1465502007445</created>
@@ -469,11 +466,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467298030394</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Video 20 y 21, Refactor y nuevo ejemplo de switch - case.">
+      <created>1467752007353</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1467752007353</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42200000" />
+    <option name="totallyTimeSpent" value="42275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -521,7 +525,8 @@
     <MESSAGE value="Video 14, Funciones matematicas predefinidas y casting. Refactor" />
     <MESSAGE value="Video 17, Uso de switch - case." />
     <MESSAGE value="Video 17, Refactor y nuevo ejemplo de switch - case." />
-    <option name="LAST_COMMIT_MESSAGE" value="Video 17, Refactor y nuevo ejemplo de switch - case." />
+    <MESSAGE value="Video 20 y 21, Refactor y nuevo ejemplo de switch - case." />
+    <option name="LAST_COMMIT_MESSAGE" value="Video 20 y 21, Refactor y nuevo ejemplo de switch - case." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -812,6 +817,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-19455">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
