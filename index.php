@@ -1,5 +1,5 @@
 <?php
 require("config/config.php");
 require("html/head.html");
-require("videos/2/27-MetodosAccesores.php");
+require("videos/2/28-MetodosAtributosEstaticos.php");
 include("html/foot.html");

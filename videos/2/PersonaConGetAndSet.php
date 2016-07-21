@@ -8,8 +8,17 @@
  */
 class Persona
 {
+    /**
+     * @var
+     */
     private $id;
+    /**
+     * @var
+     */
     private $nombres;
+    /**
+     * @var
+     */
     private $apellidos;
 
     /**
@@ -75,6 +84,10 @@ class Persona
     {
         $this->edad = $edad;
     }
+
+    /**
+     * @var
+     */
     protected  $edad;
 
     /**
@@ -91,6 +104,9 @@ class Persona
         echo "la edad es " . $this->edad;
     }
 
+    /**
+     * @param $id
+     */
     function asignarId($id)
     {
         $this->id = $id;
@@ -104,7 +120,13 @@ class Persona
  */
 class Profesor extends Persona
 {
+    /**
+     * @var
+     */
     private $salario;
+    /**
+     * @var
+     */
     private $profesion;
 
     /**
@@ -139,6 +161,9 @@ class Profesor extends Persona
         $this->profesion = $profesion;
     }
 
+    /**
+     * @param $salario
+     */
     function asignarSalario($salario)
     {
         $this->salario = $salario;
@@ -171,10 +196,22 @@ class Profesor extends Persona
  */
 class Alumno extends Persona
 {
+    /**
+     * @var
+     */
     private $semestre;
+    /**
+     * @var
+     */
     private $valorMatricula;
+    /**
+     * @var
+     */
     private $promedioSemestre;
 
+    /**
+     * Alumno constructor.
+     */
     public function __construct()
     {
         echo "-Instancia creada con constructor vacio.<br>";
@@ -228,12 +265,18 @@ class Alumno extends Persona
         $this->promedioSemestre = $promedioSemestre;
     }
 
+    /**
+     * @param $nuevoSemestre
+     */
     function cambiarSemestre($nuevoSemestre)
     {
         $this->semestre = $nuevoSemestre;
         echo "Semestre cambiado correstamente. Nuevo valor " . $this->semestre . ".<br>";
     }
 
+    /**
+     *
+     */
     function mostrarSemestre()
     {
         echo "El valor en Semestre es " . $this->semestre . ".<br>";
