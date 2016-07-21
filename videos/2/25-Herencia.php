@@ -33,5 +33,3 @@ $profe1 = new Profesor(555, "profe 1", "profe 1", 25); //usando el constructor d
 $profe1->mostrarEdad(); //llamamndo metodo sobreescrito
 
 $profe1->asignarId(852);
-
-$profe1->

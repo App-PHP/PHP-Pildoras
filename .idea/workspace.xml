@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae091c92-e192-48e8-bf26-8a7a31895847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/2/25-Herencia.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/2/Persona.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/2/25-Herencia.php" afterPath="$PROJECT_DIR$/videos/2/25-Herencia.php" />
     </list>
     <ignored path="PHP-Pildoras.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +40,8 @@
       <file leaf-file-name="25-Herencia.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videos/2/25-Herencia.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="460">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -427,7 +425,7 @@
       <workItem from="1468965205082" duration="2596000" />
       <workItem from="1469042520499" duration="267000" />
       <workItem from="1469043961188" duration="465000" />
-      <workItem from="1469044443963" duration="3933000" />
+      <workItem from="1469044443963" duration="3971000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1465502007445</created>
@@ -492,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467752007353</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Video 25. Herencia">
+      <created>1469060912144</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1469060912144</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56277000" />
+    <option name="totallyTimeSpent" value="56315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="956" height="1035" extended-state="0" />
@@ -545,7 +550,8 @@
     <MESSAGE value="Video 17, Uso de switch - case." />
     <MESSAGE value="Video 17, Refactor y nuevo ejemplo de switch - case." />
     <MESSAGE value="Video 20 y 21, Refactor y nuevo ejemplo de switch - case." />
-    <option name="LAST_COMMIT_MESSAGE" value="Video 20 y 21, Refactor y nuevo ejemplo de switch - case." />
+    <MESSAGE value="Video 25. Herencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video 25. Herencia" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -904,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/videos/2/25-Herencia.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="460">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
