@@ -49,7 +49,9 @@ echo "<thead><td>Documento</td><td>Nombre</td><td>Apellido</td><td>Edad</td></th
 while ($fila = mysqli_fetch_row($resultado)) {
 
     //imprimimos en una linea el resultado de cada linea arrojado en la consulta
-    echo "<tr><td>$fila[0]</td><td>$fila[1]</td><td>$$fila[2]</td><td>$$fila[4]</td></tr>";
+    echo "<tr><td>$fila[0]</td>
+                <td>$fila[1]</td>
+                <td>$$fila[2]</td>
+                <td>$$fila[4]</td></tr>";
 }
 echo "</table>";
-
