@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae091c92-e192-48e8-bf26-8a7a31895847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/4/40-formulario.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/3/38-CompartirConexionConsultaCriterios.php" afterPath="$PROJECT_DIR$/videos/3/38-CompartirConexionConsultaCriterios.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php" afterPath="$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php" />
     </list>
     <ignored path="PHP-Pildoras.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,48 +48,21 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="81">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="39-Consulta-ArrayPorAsociacion.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php">
+      <file leaf-file-name="40-FormularioBusqueda.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="57" />
+            <state relative-caret-position="270">
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
               <folding>
-                <element signature="e#6#88#0#PHP" expanded="true" />
-                <marker date="1470261982676" expanded="true" signature="377:383" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="383:389" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="389:395" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="395:401" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="464:470" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="470:476" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="476:482" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="482:488" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="539:545" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="545:551" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="551:557" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="557:563" ph=" " />
-                <marker date="1470261982676" expanded="true" signature="1409:1438" ph="SELECT * FRO... datospersonales" />
-                <marker date="1470261982676" expanded="true" signature="1456:1502" ph="SELECT * FRO... CAFESALUD" />
-                <marker date="1470261982676" expanded="true" signature="1518:1597" ph="SELECT * FRO... CAFESALUD" />
-                <marker date="1470261982676" expanded="true" signature="1893:2132" ph="..." />
-                <marker date="1470261982676" expanded="true" signature="2473:2799" ph="..." />
+                <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conexion.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videos/3/conexion.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -101,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/videos/06-AmbioVariables.php" />
         <option value="$PROJECT_DIR$/videos/07-VariablesEstaticas.php" />
         <option value="$PROJECT_DIR$/videos/08-String.php" />
         <option value="$PROJECT_DIR$/videos/09- funcion.php" />
@@ -126,7 +100,6 @@
         <option value="$PROJECT_DIR$/videos/1/17-Switch-case.php" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
-        <option value="$PROJECT_DIR$/html/head.html" />
         <option value="$PROJECT_DIR$/videos/2/20-Funciones.php" />
         <option value="$PROJECT_DIR$/videos/2/21-FuncionesParametrosPorValorYPorReferencia.php" />
         <option value="$PROJECT_DIR$/videos/2/Carro.php" />
@@ -147,8 +120,13 @@
         <option value="$PROJECT_DIR$/videos/3/conexion.php" />
         <option value="$PROJECT_DIR$/videos/3/36-ConexionBBDD-Procedimientos.php" />
         <option value="$PROJECT_DIR$/videos/3/38-CompartirConexionConsultaCriterios.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/videos/4/formularioBusqueda.php" />
+        <option value="$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php" />
         <option value="$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php" />
+        <option value="$PROJECT_DIR$/videos/4/40-formulario.php" />
+        <option value="$PROJECT_DIR$/html/head.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php" />
       </list>
     </option>
   </component>
@@ -193,6 +171,90 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Changed Files">
@@ -289,76 +351,6 @@
       </pane>
       <pane id="Scratches">
         <subPane />
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
       </pane>
     </panes>
   </component>
@@ -506,7 +498,8 @@
       <workItem from="1469635419701" duration="131000" />
       <workItem from="1469638997574" duration="111000" />
       <workItem from="1470152638203" duration="655000" />
-      <workItem from="1470256953692" duration="4822000" />
+      <workItem from="1470256953692" duration="5128000" />
+      <workItem from="1470318638661" duration="2621000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1465502007445</created>
@@ -613,11 +606,18 @@
       <option name="project" value="LOCAL" />
       <updated>1469581072193</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Video 39. Consultas, con Array por Asociación y Comodines">
+      <created>1470261994822</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1470261994822</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89444000" />
+    <option name="totallyTimeSpent" value="92371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -672,41 +672,14 @@
     <MESSAGE value="Video 28 y 29 . Atributos y metodos estaticos" />
     <MESSAGE value="Video 30, 31 y 32. Arrays" />
     <MESSAGE value="Video 36. Conectar con BBDD por Procedimientos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Video 36. Conectar con BBDD por Procedimientos" />
+    <MESSAGE value="Video 39. Consultas, con Array por Asociación y Comodines" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video 39. Consultas, con Array por Asociación y Comodines" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/videos/0/04-echoAndPrint.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/0/06-AmbioVariables.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="28" column="7" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/0/08-String.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos/09- trabajo_operadores.php" />
     <entry file="file://$PROJECT_DIR$/videos/0/09-validaciones.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -814,24 +787,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/foot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -974,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="40" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -982,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="46" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -990,19 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
           <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-            <marker date="1470257550024" expanded="true" signature="943:989" ph="SELECT * FRO... CAFESALUD" />
-            <marker date="1470257550024" expanded="true" signature="1552:1678" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1010,33 +954,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/40-formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="57" />
+        <state relative-caret-position="2322">
+          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
-            <marker date="1470261982676" expanded="true" signature="377:383" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="383:389" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="389:395" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="395:401" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="464:470" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="470:476" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="476:482" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="482:488" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="539:545" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="545:551" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="551:557" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="557:563" ph=" " />
-            <marker date="1470261982676" expanded="true" signature="1409:1438" ph="SELECT * FRO... datospersonales" />
-            <marker date="1470261982676" expanded="true" signature="1456:1502" ph="SELECT * FRO... CAFESALUD" />
-            <marker date="1470261982676" expanded="true" signature="1518:1597" ph="SELECT * FRO... CAFESALUD" />
-            <marker date="1470261982676" expanded="true" signature="1893:2132" ph="..." />
-            <marker date="1470261982676" expanded="true" signature="2473:2799" ph="..." />
+            <marker date="1470320079799" expanded="true" signature="377:383" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="383:389" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="389:395" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="395:401" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="464:470" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="470:476" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="476:482" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="482:488" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="539:545" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="545:551" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="551:557" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="557:563" ph=" " />
+            <marker date="1470320079799" expanded="true" signature="1409:1438" ph="SELECT * FRO... datospersonales" />
+            <marker date="1470320079799" expanded="true" signature="1456:1502" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1470320079799" expanded="true" signature="1518:1597" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1470320079799" expanded="true" signature="1963:2202" ph="..." />
+            <marker date="1470320079799" expanded="true" signature="2543:2869" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/foot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/40-formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#191#272#0#PHP" expanded="true" />
+            <marker date="1470321109687" expanded="true" signature="1139:1199" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1470321109687" expanded="true" signature="1497:1736" ph="..." />
+            <marker date="1470321109687" expanded="true" signature="2077:2403" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

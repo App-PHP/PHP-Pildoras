@@ -1,29 +1,26 @@
+<!--Es necesario cargar de nuevo los CSS y JS. Desde esta ruta no carga estos archivos que fueron cargados desde los html-->
+<link rel="stylesheet" href="../../css/bootstrap.min.css">
+
 <?php
 /**
  * Created by PhpStorm.
  * User: hernan
- * Date: 03/08/2016
- * Time: 15:43
+ * Date: 04/08/2016
+ * Time: 9:01
  */
+//recuperamos el texto del campo del formulario
+
+$stringBuscar = $_GET["buscar"];
 
 
-echo "<h2>Consultas, con Array por Asociación y Comodines</h2>";
+include("../../config/config.php");
+include("../../html/head.html");
 
-echo "- Usando la funcion <code>mysqli_fetch_array(nombreRecorSet, MYSQL_ASSOC)</code> podemos tener un array asociativo con el resultado de la consulta.<br>";
 
-echo "En las consultas podemos usar comodines.<br>";
-echo "&nbsp;&nbsp;&nbsp;&nbsp;<code>%</code> Reemplaza una cadena de caracteres.<br>";
-echo "&nbsp;&nbsp;&nbsp;&nbsp;<code>_</code> Reemplaza un caracter.<br>";
 
-echo "&nbsp;&nbsp;&nbsp;&nbsp;No se usa igual, se debe usar el operador <code>LIKE</code>.<br>";
-echo "<code>'SELECT * FROM NOMBRETABLA WHERE NOMBRECAMPO LIKE '%CADENA'</code><br><br><br>";
-
-echo "- Ejemplo.<br><br><br>";
-
-require ("conexion.php");
+require ("../3/conexion.php");
 
 //ahora creamos la conexión
-
 $conexion = mysqli_connect($dbHost, $dbUsuario, $dbContrasena);
 //No pasamos el curto parametro con la intensión de saber mas en caso de error
 
@@ -34,22 +31,22 @@ if (mysqli_connect_errno()) {
     exit();
 }
 
+
 //verificamos si existe la base de datos en este servidor
 mysqli_select_db($conexion, $dbBaseDatos) or die(" - No se encuentra la base de datos en este servidor.");
 
 //impedimos poblemas con caracteres como la ñ o las tildes
 mysqli_set_charset($conexion, "utf8");
 
-//$consulta = "SELECT * FROM datospersonales";
-//$consulta = "SELECT * FROM CAFESALUD WHERE NOMBRE1='matias'";
-$consulta = "SELECT * FROM CAFESALUD WHERE SEXO='F' AND EDAD BETWEEN 15 AND 20 ORDER BY edad";
+//consulta con el contenido del campo y con comodines
+$consulta = "SELECT * FROM CAFESALUD WHERE NOMBRE1 like '%$stringBuscar%'";
+
+
 
 //realizamos la consulta a la BBDD
 //recorset
 $resultado = mysqli_query($conexion, $consulta);
 
-//cerramos la conexion *****IMPORTANTE******
-mysqli_close($conexion);
 $separador = "|";
 
 //creamos una tabla para mostrar mejor los resultados obtenidos
@@ -85,3 +82,7 @@ while ($fila = mysqli_fetch_array($resultado, MYSQLI_ASSOC)) {
             </tr>";
 }
 echo "</table>";
+
+mysqli_close($conexion);
+
+include("../../html/foot.html");
