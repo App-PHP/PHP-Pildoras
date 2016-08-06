@@ -41,6 +41,7 @@ function mostrarFormulario(){
 }
 
 function mostrarConsulta($cadenaBusqueda){
+
     require ("conexion.php");
     $conexion = mysqli_connect($dbHost, $dbUsuario, $dbContrasena);
     if (mysqli_connect_errno()) {

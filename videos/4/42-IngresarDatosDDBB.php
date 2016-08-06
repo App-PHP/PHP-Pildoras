@@ -6,6 +6,9 @@
  * Time: 7:07
  */
 
+$textoBoton="Enviar";
+
+
 echo "Para ingresar datos a la BBDD usamos la instrucción:<br>";
 
 echo "<code>INSERT INTO NOMBRETABLA(CAMPO1, CAMPO2, CAMPO3, ...) VALUES (DATO1, DATO2, DATO3, ...)</code>";

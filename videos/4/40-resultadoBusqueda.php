@@ -39,14 +39,13 @@ mysqli_select_db($conexion, $dbBaseDatos) or die(" - No se encuentra la base de 
 mysqli_set_charset($conexion, "utf8");
 
 //consulta con el contenido del campo y con comodines
-$consulta = "SELECT * FROM CAFESALUD WHERE NOMBRE1 like '%$stringBuscar%' ORDER BY EDAD";
+$consulta = "SELECT * FROM CAFESALUD WHERE NOMBRE1 like '%$stringBuscar%'";
 
 
 
 //realizamos la consulta a la BBDD
 //recorset
 $resultado = mysqli_query($conexion, $consulta);
-mysqli_close($conexion);
 
 $separador = "|";
 
@@ -84,6 +83,6 @@ while ($fila = mysqli_fetch_array($resultado, MYSQLI_ASSOC)) {
 }
 echo "</table>";
 
-
+mysqli_close($conexion);
 
 include("../../html/foot.html");

@@ -73,9 +73,8 @@
         <div class="col-sm-3">
         </div>
         <div class="col-sm-4">
-            <input type="submit" name="enviar" value="Enviar" class="btn btn-success">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+            <input type="submit" name="enviar" value="<?= $textoBoton?>" class="btn btn-success">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <input type="reset" name="limpiar" value="Limpiar" class="btn btn-danger btn-sm">
         </div>
     </div>

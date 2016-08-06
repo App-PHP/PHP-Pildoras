@@ -9,9 +9,11 @@
 
 echo "<h2>Ingresando datos desde un formaulario</h2>";
 
-echo "En este eejmplo ingresamos un registro a la BBDD<br>";
+echo "En este ejemplo ingresamos un registro a la BBDD<br>";
 
 echo "Usamos variables globales<br>";
+
+$textoBoton="Enviar";
 
 require("42-Formulario registro.php");
 
@@ -55,15 +57,14 @@ function ingresarRegistro()
     mysqli_set_charset($conexion, "utf8");
 
     $consulta = "INSERT INTO CAFESALUD (TIPO_ID, NRO_ID, APELLIDO1, APELLIDO2, NOMBRE1, NOMBRE2, SEXO, FEC_NAC, EDAD)
-                            VALUES ($tipoID, $numeroID, $apellido1, $apellido2, $nombre1, $nombre2, $sexo, $fechaNacimiento, $edad)";
+                            VALUES ('$tipoID', '$numeroID', '$apellido1', '$apellido2', '$nombre1', '$nombre2', '$sexo', '$fechaNacimiento', '$edad')";
 
     $resultado = mysqli_query($conexion, $consulta);
-    mysqli_close($conexion);
 
-    if ($resultado){
+    if ($consulta){
         echo "Usuario guardado correctamente";
     }else{
         echo "NO se pudo guardar";
     }
-
+    mysqli_close($conexion);
 }
