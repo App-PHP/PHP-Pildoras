@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae091c92-e192-48e8-bf26-8a7a31895847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php" afterPath="$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/41-BusquedaResultadoUnaPagina.php" afterPath="$PROJECT_DIR$/videos/4/41-BusquedaResultadoUnaPagina.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/42-Formulario registro.php" afterPath="$PROJECT_DIR$/videos/4/42-Formulario registro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/42-IngresarDatosDDBB.php" afterPath="$PROJECT_DIR$/videos/4/42-IngresarDatosDDBB.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php" afterPath="$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php" afterPath="$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php" />
     </list>
     <ignored path="PHP-Pildoras.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,14 +54,14 @@
       <file leaf-file-name="44-EliminarRegistroConFormulario.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
-                <marker date="1470515722887" expanded="true" signature="964:999" ph="DELETE FROM " />
-                <marker date="1470515722887" expanded="true" signature="964:1018" ph="DELETE FROM " />
-                <marker date="1470515722887" expanded="true" signature="964:1502" ph="DELETE FROM " />
-                <marker date="1470515722887" expanded="true" signature="971:992" ph="SELECT * FRO... CAFESALUD" />
+                <marker date="1470516046408" expanded="true" signature="931:966" ph="DELETE FROM " />
+                <marker date="1470516046408" expanded="true" signature="931:975" ph="DELETE FROM " />
+                <marker date="1470516046408" expanded="true" signature="931:1459" ph="DELETE FROM " />
+                <marker date="1470516046408" expanded="true" signature="938:959" ph="SELECT * FRO... CAFESALUD" />
               </folding>
             </state>
           </provider>
@@ -554,7 +548,7 @@
       <workItem from="1470433482170" duration="890000" />
       <workItem from="1470499867542" duration="6686000" />
       <workItem from="1470508870360" duration="614000" />
-      <workItem from="1470513955525" duration="1757000" />
+      <workItem from="1470513955525" duration="2078000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1465502007445</created>
@@ -668,11 +662,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470261994822</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Video 44. Elimar registro usando un formulario">
+      <created>1470515744976</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1470515744976</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116669000" />
+    <option name="totallyTimeSpent" value="116990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -728,7 +729,8 @@
     <MESSAGE value="Video 30, 31 y 32. Arrays" />
     <MESSAGE value="Video 36. Conectar con BBDD por Procedimientos" />
     <MESSAGE value="Video 39. Consultas, con Array por Asociación y Comodines" />
-    <option name="LAST_COMMIT_MESSAGE" value="Video 39. Consultas, con Array por Asociación y Comodines" />
+    <MESSAGE value="Video 44. Elimar registro usando un formulario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video 44. Elimar registro usando un formulario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1065,14 +1067,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
-            <marker date="1470515722887" expanded="true" signature="964:999" ph="DELETE FROM " />
-            <marker date="1470515722887" expanded="true" signature="964:1018" ph="DELETE FROM " />
-            <marker date="1470515722887" expanded="true" signature="964:1502" ph="DELETE FROM " />
-            <marker date="1470515722887" expanded="true" signature="971:992" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1470516046408" expanded="true" signature="931:966" ph="DELETE FROM " />
+            <marker date="1470516046408" expanded="true" signature="931:975" ph="DELETE FROM " />
+            <marker date="1470516046408" expanded="true" signature="931:1459" ph="DELETE FROM " />
+            <marker date="1470516046408" expanded="true" signature="938:959" ph="SELECT * FRO... CAFESALUD" />
           </folding>
         </state>
       </provider>

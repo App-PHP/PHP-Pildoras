@@ -29,7 +29,6 @@ if ($numeroId != null) {
 function elimarRegistro()
 {
     global $numeroId;
-    echo "borrar $numeroId<br>";
 
     require("conexion.php");
 
@@ -42,7 +41,7 @@ function elimarRegistro()
 
     mysqli_set_charset($conexion, "utf8");
 
-    $consulta = "DELETE FROM CAFESALUD WHERE NRO_ID='" . $numeroId . "'";
+    $consulta = "DELETE FROM CAFESALUD WHERE NRO_ID=$numeroId";
 
     $resultado = mysqli_query($conexion, $consulta);
 
