@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae091c92-e192-48e8-bf26-8a7a31895847" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/4/45-ActualizarUsandoFormulario.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php" afterPath="$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php" afterPath="$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php" />
     </list>
     <ignored path="PHP-Pildoras.iws" />
@@ -44,49 +47,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="81">
+              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="44-EliminarRegistroConFormulario.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php">
+      <file leaf-file-name="45-ActualizarUsandoFormulario.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/videos/4/45-ActualizarUsandoFormulario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
-                <marker date="1470516046408" expanded="true" signature="931:966" ph="DELETE FROM " />
-                <marker date="1470516046408" expanded="true" signature="931:975" ph="DELETE FROM " />
-                <marker date="1470516046408" expanded="true" signature="931:1459" ph="DELETE FROM " />
-                <marker date="1470516046408" expanded="true" signature="938:959" ph="SELECT * FRO... CAFESALUD" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="43-IngresarDatosDesdeFormulario.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="21" />
-              <folding>
-                <element signature="e#6#88#0#PHP" expanded="true" />
-                <marker date="1470503098307" expanded="true" signature="1349:1599" ph="INSERT INTO CAFESALUD... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="42-Formulario registro.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videos/4/42-Formulario registro.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="80" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="80" />
-              <folding>
-                <element signature="e#3022#3028#0#HTML" expanded="true" />
+                <marker date="1470539884871" expanded="true" signature="98:152" ph="..." />
+                <marker date="1470539884871" expanded="true" signature="1665:1839" ph="UPDATE CAFES... " />
+                <marker date="1470539884871" expanded="true" signature="1665:1840" ph="UPDATE CAFES... " />
+                <marker date="1470539884871" expanded="true" signature="1665:1842" ph="UPDATE CAFES... " />
+                <marker date="1470539884871" expanded="true" signature="1665:1861" ph="UPDATE CAFES... " />
+                <marker date="1470539884871" expanded="true" signature="1665:1862" ph="UPDATE CAFES... " />
+                <marker date="1470539884871" expanded="true" signature="1665:1872" ph="UPDATE CAFES... " />
+                <marker date="1470539884871" expanded="true" signature="1895:1959" ph="UPDATE CAFES... " />
               </folding>
             </state>
           </provider>
@@ -101,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/videos/1/11-ejemplo_operadores.php" />
         <option value="$PROJECT_DIR$/videos/1/11-Calculadora.php" />
         <option value="$PROJECT_DIR$/videos/1/11-ejemplo_operadores.html" />
         <option value="$PROJECT_DIR$/videos/1/12.OperadoresMatemáticosII.php" />
@@ -147,11 +128,12 @@
         <option value="$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php" />
         <option value="$PROJECT_DIR$/config/config.php" />
         <option value="$PROJECT_DIR$/html/head.html" />
-        <option value="$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php" />
         <option value="$PROJECT_DIR$/videos/4/42-IngresarDatosDDBB.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/videos/4/42-Formulario registro.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php" />
         <option value="$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php" />
+        <option value="$PROJECT_DIR$/videos/4/45-ActualizarUsandoFormulario.php" />
       </list>
     </option>
   </component>
@@ -196,6 +178,86 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Pildoras" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Changed Files">
@@ -293,104 +355,6 @@
       <pane id="Scratches">
         <subPane />
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,17 +381,17 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\wamp\www\PHP-Pildoras" />
-      <recent name="D:\wamp\www\PHP-Pildoras\videos\00" />
-      <recent name="D:\wamp\www\PHP-Pildoras\videos\01" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\wamp\www\PHP-Pildoras\videos\4" />
       <recent name="E:\wamp64\www\PHP-Pildoras\videos\4" />
       <recent name="D:\wamp\www\PHP-Pildoras" />
       <recent name="E:\wamp64\www\PHP-Pildoras\videos\3" />
       <recent name="E:\wamp64\www\PHP-Pildoras\videos\2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\PHP-Pildoras" />
+      <recent name="D:\wamp\www\PHP-Pildoras\videos\00" />
+      <recent name="D:\wamp\www\PHP-Pildoras\videos\01" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.14-FuncionesMatematicasyCasting.php">
@@ -548,7 +512,8 @@
       <workItem from="1470433482170" duration="890000" />
       <workItem from="1470499867542" duration="6686000" />
       <workItem from="1470508870360" duration="614000" />
-      <workItem from="1470513955525" duration="2078000" />
+      <workItem from="1470513955525" duration="2093000" />
+      <workItem from="1470527948899" duration="6283000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1465502007445</created>
@@ -669,11 +634,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470515744976</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Video 44. Elimar registro usando un formulario">
+      <created>1470516049384</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1470516049384</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116990000" />
+    <option name="totallyTimeSpent" value="123288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -737,13 +709,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/videos/1/12-ejemplo_operadores.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos/1/14-FuncionesMatematicasyCasting.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1036,45 +1001,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/videos/4/42-Formulario registro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-1440">
+          <caret line="2" column="69" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="1179">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="28" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
-            <marker date="1470503098307" expanded="true" signature="1349:1599" ph="INSERT INTO CAFESALUD... " />
+            <marker date="1470538260957" expanded="true" signature="1349:1599" ph="INSERT INTO CAFESALUD... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/42-Formulario registro.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="80" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="80" />
-          <folding>
-            <element signature="e#3022#3028#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="81">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="261">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
-            <marker date="1470516046408" expanded="true" signature="931:966" ph="DELETE FROM " />
-            <marker date="1470516046408" expanded="true" signature="931:975" ph="DELETE FROM " />
-            <marker date="1470516046408" expanded="true" signature="931:1459" ph="DELETE FROM " />
-            <marker date="1470516046408" expanded="true" signature="938:959" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1470538510467" expanded="true" signature="1065:1100" ph="DELETE FROM " />
+            <marker date="1470538510467" expanded="true" signature="1065:1109" ph="DELETE FROM " />
+            <marker date="1470538510467" expanded="true" signature="1072:1093" ph="SELECT * FRO... CAFESALUD" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/45-ActualizarUsandoFormulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+            <marker date="1470539884871" expanded="true" signature="98:152" ph="..." />
+            <marker date="1470539884871" expanded="true" signature="1665:1839" ph="UPDATE CAFES... " />
+            <marker date="1470539884871" expanded="true" signature="1665:1840" ph="UPDATE CAFES... " />
+            <marker date="1470539884871" expanded="true" signature="1665:1842" ph="UPDATE CAFES... " />
+            <marker date="1470539884871" expanded="true" signature="1665:1861" ph="UPDATE CAFES... " />
+            <marker date="1470539884871" expanded="true" signature="1665:1862" ph="UPDATE CAFES... " />
+            <marker date="1470539884871" expanded="true" signature="1665:1872" ph="UPDATE CAFES... " />
+            <marker date="1470539884871" expanded="true" signature="1895:1959" ph="UPDATE CAFES... " />
           </folding>
         </state>
       </provider>

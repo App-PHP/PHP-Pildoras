@@ -14,6 +14,8 @@ echo "Usalos la sentencia <code>DELETE</code>.<br>";
 
 echo "<code>DELETE FROM NOMBRETABLA WHERE CAMPO=CONDICION;</code>.<br>";
 
+echo "Se usa una función para obtener el numero de registros eliminados, esta es: <code>(mysqli_affected_rows(conexion)</code><br>";
+
 echo "- Ejemplo.<br><br><br>";
 
 $textoBoton = "Eliminar";
@@ -47,14 +49,14 @@ function elimarRegistro()
 
     if ($conexion) {
         if (mysqli_affected_rows($conexion) > 0) {
-            echo "La operacón sobre la BBDD fue realizada con exito<br>";
-            echo "Fueron afectadas " . mysqli_affected_rows($conexion) . " lineas<br>";
+            echo "La operacón sobre la BBDD fue realizada con exito.<br>";
+            echo "Fueron afectadas " . mysqli_affected_rows($conexion) . " lineas.<br>";
         } else {
-            echo "Ninguna linea afectada<br>";
+            echo "Ninguna linea afectada.<br>";
         }
 
     } else {
-        echo "No se pudo realizar la operación sobre la BBDD<br>";
+        echo "No se pudo realizar la operación sobre la BBDD.<br>";
     }
     mysqli_close($conexion);
 

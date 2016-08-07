@@ -61,10 +61,16 @@ function ingresarRegistro()
 
     $resultado = mysqli_query($conexion, $consulta);
 
-    if ($consulta){
-        echo "Usuario guardado correctamente";
-    }else{
-        echo "NO se pudo guardar";
+    if ($conexion) {
+        if (mysqli_affected_rows($conexion) > 0) {
+            echo "La operacón sobre la BBDD fue realizada con exito<br>";
+            echo "Fueron afectadas " . mysqli_affected_rows($conexion) . " lineas<br>";
+        } else {
+            echo "Ninguna linea afectada<br>";
+        }
+
+    } else {
+        echo "No se pudo realizar la operación sobre la BBDD<br>";
     }
     mysqli_close($conexion);
 }
