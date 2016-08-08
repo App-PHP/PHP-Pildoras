@@ -53,7 +53,8 @@ function mostrarConsulta($cadenaBusqueda){
 
     mysqli_set_charset($conexion, "utf8");
 
-    $consulta = "SELECT * FROM CAFESALUD WHERE NOMBRE1 like '%$cadenaBusqueda%' ORDER BY EDAD";
+    //$consulta = "SELECT * FROM CAFESALUD WHERE NOMBRE1 like '%$cadenaBusqueda%' ORDER BY EDAD";
+    $consulta = "SELECT * FROM CAFESALUD WHERE NOMBRE1 like '$cadenaBusqueda' ORDER BY EDAD";
 
     $resultado = mysqli_query($conexion, $consulta);
     mysqli_close($conexion);
