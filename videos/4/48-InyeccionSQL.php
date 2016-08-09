@@ -118,8 +118,6 @@ function mostrarConsulta($cadenaBusqueda)
         } else {
             echo "La operación no afecto ninguna linea";
         }
-
-
     } else {
         echo("NO fue posible hacer la consulta");
     }
