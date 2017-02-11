@@ -23,10 +23,9 @@ echo "- Para llamar metodos, consultar y asignar valores atributos , usamos <cod
 echo "- En las ultimas versiones, el constructor se crea usando el metodo <code>function __construct(){...}</code><br>";
 
 
-
 echo "- Ejemplo.<br><br><br>";
 
-require ("Carro.php");
+require("Carro.php");
 
 $miCarro = new Carro();
 $tuCarro = new Carro();
@@ -42,6 +41,6 @@ echo "El numero de ruedas de mi carro es " . $miCarro->nroRuedas . "<br>";
 
 echo "Ahora cambiamos el color del carro usando un metodo con parametros<br>";
 $miCarro->estableceColor("Azul");
-echo "El color accediento al atributo es: ". $miCarro->color.".<br>";
+echo "El color accediento al atributo es: " . $miCarro->color . ".<br>";
 
 

@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae091c92-e192-48e8-bf26-8a7a31895847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/4/49-ConsultasPreparadas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/head.html" afterPath="$PROJECT_DIR$/html/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/4/48-InyeccionSQL.php" afterPath="$PROJECT_DIR$/videos/4/48-InyeccionSQL.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/0/04-echoAndPrint.php" afterPath="$PROJECT_DIR$/videos/0/04-echoAndPrint.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/0/06-AmbioVariables.php" afterPath="$PROJECT_DIR$/videos/0/06-AmbioVariables.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/0/08-String.php" afterPath="$PROJECT_DIR$/videos/0/08-String.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/1/10-Constantes.php" afterPath="$PROJECT_DIR$/videos/1/10-Constantes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/1/14-FuncionesMatematicasyCasting.php" afterPath="$PROJECT_DIR$/videos/1/14-FuncionesMatematicasyCasting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/2/22-Poo.php" afterPath="$PROJECT_DIR$/videos/2/22-Poo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/2/26-ModificadoresAcceso.php" afterPath="$PROJECT_DIR$/videos/2/26-ModificadoresAcceso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/2/PersonaConModificarAcceso.php" afterPath="$PROJECT_DIR$/videos/2/PersonaConModificarAcceso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/3/30-Arrays.php" afterPath="$PROJECT_DIR$/videos/3/30-Arrays.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/3/31-ArraysRecorrer.php" afterPath="$PROJECT_DIR$/videos/3/31-ArraysRecorrer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/3/33-ArraysMultidimencionales.php" afterPath="$PROJECT_DIR$/videos/3/33-ArraysMultidimencionales.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/3/36-ConexionBBDD-Procedimientos.php" afterPath="$PROJECT_DIR$/videos/3/36-ConexionBBDD-Procedimientos.php" />
     </list>
     <ignored path="PHP-Pildoras.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,26 +55,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            <state relative-caret-position="161">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="48-InyeccionSQL.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videos/4/48-InyeccionSQL.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="40-FormularioBusqueda.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="40-resultadoBusqueda.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
-                <marker date="1470661780222" expanded="true" signature="2201:2277" ph="SELECT * FRO... CAFESALUD" />
-                <marker date="1470661780222" expanded="true" signature="2704:3015" ph="..." />
-                <marker date="1470661780222" expanded="true" signature="3340:3666" ph="..." />
+                <marker date="1471308615298" expanded="true" signature="1139:1199" ph="SELECT * FRO... CAFESALUD" />
+                <marker date="1471308615298" expanded="true" signature="1497:1736" ph="..." />
+                <marker date="1471308615298" expanded="true" signature="2077:2403" ph="..." />
               </folding>
             </state>
           </provider>
@@ -71,29 +102,51 @@
       <file leaf-file-name="41-BusquedaResultadoUnaPagina.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videos/4/41-BusquedaResultadoUnaPagina.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="39" column="6" selection-start-line="31" selection-start-column="5" selection-end-line="39" selection-end-column="6" />
+            <state relative-caret-position="-429">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="42-Formulario registro.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos/4/42-Formulario registro.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-437">
+              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="42-IngresarDatosDDBB.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos/4/42-IngresarDatosDDBB.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
-                <marker date="1470710710355" expanded="true" signature="1565:1641" ph="SELECT * FRO... CAFESALUD" />
-                <marker date="1470710710355" expanded="true" signature="1661:1735" ph="SELECT * FRO... CAFESALUD" />
-                <marker date="1470710710355" expanded="true" signature="1917:2156" ph="..." />
-                <marker date="1470710710355" expanded="true" signature="2441:2767" ph="..." />
+                <marker date="1471308615298" expanded="true" signature="666:881" ph="INSERT INTO CAFESALUD... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="49-ConsultasPreparadas.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videos/4/49-ConsultasPreparadas.php">
+      <file leaf-file-name="43-IngresarDatosDesdeFormulario.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="80" column="75" selection-start-line="80" selection-start-column="75" selection-end-line="80" selection-end-column="75" />
-              <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
-                <marker date="1470711899311" expanded="true" signature="1766:1882" ph="SELECT TIPO_... CAFESALUD" />
-                <marker date="1470711899311" expanded="true" signature="2889:3128" ph="..." />
-                <marker date="1470711899311" expanded="true" signature="3202:3532" ph="..." />
-              </folding>
+            <state relative-caret-position="1374">
+              <caret line="74" column="4" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="40-formulario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos/4/40-formulario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="72" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="72" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,38 +160,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/videos/1/12.OperadoresMatemáticosII.php" />
-        <option value="$PROJECT_DIR$/videos/1/12-ejemplo_operadores.html" />
-        <option value="$PROJECT_DIR$/videos/1/12-OperadoresMatemáticosII.php" />
-        <option value="$PROJECT_DIR$/videos/1/12-OperadoresMatematicosII.php" />
-        <option value="$PROJECT_DIR$/videos/1/11-Operadores.php" />
-        <option value="$PROJECT_DIR$/videos/1/12-Calculadora.php" />
-        <option value="$PROJECT_DIR$/videos/1/15-FuncionesMatematicasyCasting.php" />
-        <option value="$PROJECT_DIR$/videos/1/15-CondicionalesYPrioridadOperadores.php" />
         <option value="$PROJECT_DIR$/videos/1/16-OperadorTernario.php" />
         <option value="$PROJECT_DIR$/videos/1/17-Swich-case.php" />
-        <option value="$PROJECT_DIR$/videos/1/17-Switch-case.php" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
         <option value="$PROJECT_DIR$/videos/2/20-Funciones.php" />
         <option value="$PROJECT_DIR$/videos/2/21-FuncionesParametrosPorValorYPorReferencia.php" />
         <option value="$PROJECT_DIR$/videos/2/Carro.php" />
-        <option value="$PROJECT_DIR$/videos/2/22-Poo.php" />
         <option value="$PROJECT_DIR$/videos/2/Persona.php" />
         <option value="$PROJECT_DIR$/videos/2/25-Herencia.php" />
-        <option value="$PROJECT_DIR$/videos/2/26-ModificadoresAcceso.php" />
-        <option value="$PROJECT_DIR$/videos/2/PersonaConModificarAcceso.php" />
         <option value="$PROJECT_DIR$/videos/2/PersonaConGetAnd Set.php" />
         <option value="$PROJECT_DIR$/videos/2/27-MetodosAccesores.php" />
         <option value="$PROJECT_DIR$/videos/2/PersonaConGetAndSet.php" />
         <option value="$PROJECT_DIR$/videos/2/28-MetodosAtributosEstaticos.php" />
         <option value="$PROJECT_DIR$/videos/2/Concesionario.php" />
-        <option value="$PROJECT_DIR$/videos/3/30-Arrays.php" />
-        <option value="$PROJECT_DIR$/videos/3/31-ArraysRecorrer.php" />
-        <option value="$PROJECT_DIR$/videos/3/33-ArraysMultidimencionales.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a3f34c76-8e1d-4fdc-a053-11c2198be719/console.sql" />
         <option value="$PROJECT_DIR$/videos/3/conexion.php" />
-        <option value="$PROJECT_DIR$/videos/3/36-ConexionBBDD-Procedimientos.php" />
         <option value="$PROJECT_DIR$/videos/3/38-CompartirConexionConsultaCriterios.php" />
         <option value="$PROJECT_DIR$/videos/4/formularioBusqueda.php" />
         <option value="$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php" />
@@ -148,7 +185,6 @@
         <option value="$PROJECT_DIR$/videos/4/41-IngresarDatosDDBB.php" />
         <option value="$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php" />
         <option value="$PROJECT_DIR$/config/config.php" />
-        <option value="$PROJECT_DIR$/html/head.html" />
         <option value="$PROJECT_DIR$/videos/4/42-IngresarDatosDDBB.php" />
         <option value="$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php" />
         <option value="$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php" />
@@ -156,8 +192,25 @@
         <option value="$PROJECT_DIR$/videos/4/42-Formulario registro.php" />
         <option value="$PROJECT_DIR$/videos/4/48-InyeccionSQL.php" />
         <option value="$PROJECT_DIR$/videos/4/41-BusquedaResultadoUnaPagina.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/videos/4/49-ConsultasPreparadas.php" />
+        <option value="$PROJECT_DIR$/html/head.html" />
+        <option value="$PROJECT_DIR$/videos/0/04-echoAndPrint.php" />
+        <option value="$PROJECT_DIR$/videos/0/06-AmbioVariables.php" />
+        <option value="$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php" />
+        <option value="$PROJECT_DIR$/videos/0/08-String.php" />
+        <option value="$PROJECT_DIR$/videos/0/09-OperadoresComparacion.php" />
+        <option value="$PROJECT_DIR$/videos/1/10-Constantes.php" />
+        <option value="$PROJECT_DIR$/videos/1/11-ejemplo_operadores.html" />
+        <option value="$PROJECT_DIR$/videos/1/14-FuncionesMatematicasyCasting.php" />
+        <option value="$PROJECT_DIR$/videos/1/17-Switch-case.php" />
+        <option value="$PROJECT_DIR$/videos/2/22-Poo.php" />
+        <option value="$PROJECT_DIR$/videos/2/PersonaConModificarAcceso.php" />
+        <option value="$PROJECT_DIR$/videos/2/26-ModificadoresAcceso.php" />
+        <option value="$PROJECT_DIR$/videos/3/30-Arrays.php" />
+        <option value="$PROJECT_DIR$/videos/3/31-ArraysRecorrer.php" />
+        <option value="$PROJECT_DIR$/videos/3/33-ArraysMultidimencionales.php" />
+        <option value="$PROJECT_DIR$/videos/3/36-ConexionBBDD-Procedimientos.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -170,12 +223,10 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1920" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -202,6 +253,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Changed Files">
@@ -360,30 +414,13 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Pildoras" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
-      </pane>
-      <pane id="Scratches">
-        <subPane />
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="224" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
@@ -543,6 +580,13 @@
       <workItem from="1470699804480" duration="689000" />
       <workItem from="1470707087077" duration="80000" />
       <workItem from="1470709005956" duration="2886000" />
+      <workItem from="1471308618912" duration="951000" />
+      <workItem from="1474429470764" duration="27000" />
+      <workItem from="1474516245571" duration="424000" />
+      <workItem from="1474944408462" duration="606000" />
+      <workItem from="1482108827850" duration="19000" />
+      <workItem from="1484268599758" duration="115000" />
+      <workItem from="1486774652895" duration="13337000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1465502007445</created>
@@ -688,10 +732,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136811000" />
+    <option name="totallyTimeSpent" value="152290000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19114584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -754,288 +798,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/videos/1/16-OperadorTernario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/info.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19455">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/npm.js" />
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js" />
-    <entry file="file://$PROJECT_DIR$/videos/1/17-Switch-case.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="14" column="30" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/21-FuncionesParametrosPorValorYPorReferencia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/20-Funciones.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="16" column="30" selection-start-line="8" selection-start-column="0" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/22-Poo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/Carro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/Persona.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/25-Herencia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/26-ModificadoresAcceso.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/PersonaConModificarAcceso.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/PersonaConGetAndSet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/27-MetodosAccesores.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/Uso_concesionario.php" />
-    <entry file="file://$PROJECT_DIR$/videos/2/Concesionario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/2/28-MetodosAtributosEstaticos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/30-Arrays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="50" column="99" selection-start-line="50" selection-start-column="99" selection-end-line="50" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/31-ArraysRecorrer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/33-ArraysMultidimencionales.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3f34c76-8e1d-4fdc-a053-11c2198be719/console.sql" />
-    <entry file="file://$PROJECT_DIR$/videos/3/36-ConexionBBDD-Procedimientos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/datospersonales.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="40" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/datos.ods">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/38-CompartirConexionConsultaCriterios.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/conexion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/40-formulario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/40-formulario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/41-formulario.php" />
-    <entry file="file://$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/conexion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/foot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/0/06-AmbioVariables.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="14" column="30" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/42-IngresarDatosDDBB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos/4/44-EliminarRegistroConFormulario.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/42-Formulario registro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -1046,44 +812,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos/4/48-InyeccionSQL.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-            <marker date="1470661780222" expanded="true" signature="2201:2277" ph="SELECT * FRO... CAFESALUD" />
-            <marker date="1470661780222" expanded="true" signature="2704:3015" ph="..." />
-            <marker date="1470661780222" expanded="true" signature="3340:3666" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos/4/41-BusquedaResultadoUnaPagina.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="39" column="6" selection-start-line="31" selection-start-column="5" selection-end-line="39" selection-end-column="6" />
-          <folding>
-            <marker date="1470710710355" expanded="true" signature="1565:1641" ph="SELECT * FRO... CAFESALUD" />
-            <marker date="1470710710355" expanded="true" signature="1661:1735" ph="SELECT * FRO... CAFESALUD" />
-            <marker date="1470710710355" expanded="true" signature="1917:2156" ph="..." />
-            <marker date="1470710710355" expanded="true" signature="2441:2767" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1091,12 +823,432 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="80" column="75" selection-start-line="80" selection-start-column="75" selection-end-line="80" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-            <marker date="1470711899311" expanded="true" signature="1766:1882" ph="SELECT TIPO_... CAFESALUD" />
-            <marker date="1470711899311" expanded="true" signature="2889:3128" ph="..." />
-            <marker date="1470711899311" expanded="true" signature="3202:3532" ph="..." />
+            <element signature="e#477#483#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/foot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/0/04-echoAndPrint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/0/06-AmbioVariables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/0/07-VariablesEstaticas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/0/08-String.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/0/09-validaciones.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/0/09-OperadoresComparacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <marker date="1471308615295" expanded="true" signature="668:1263" ph="..." />
+            <marker date="1471308615295" expanded="true" signature="709:1255" ph="..." />
+            <marker date="1471308615295" expanded="true" signature="718:879" ph="..." />
+            <marker date="1471308615295" expanded="true" signature="752:869" ph="..." />
+            <marker date="1471308615295" expanded="true" signature="888:1041" ph="..." />
+            <marker date="1471308615295" expanded="true" signature="920:1031" ph="..." />
+            <marker date="1471308615295" expanded="true" signature="1050:1104" ph="..." />
+            <marker date="1471308615295" expanded="false" signature="1062:1068" ph=" " />
+            <marker date="1471308615295" expanded="false" signature="1084:1090" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="1113:1244" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/10-Constantes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/11-Operadores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <marker date="1471308615295" expanded="true" signature="105:288" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/11-ejemplo_operadores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#3#9#1" expanded="false" />
+            <element signature="e#585#591#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/12-ejemplo_operadores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3#9#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/12-Calculadora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/12-OperadoresMatematicosII.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/14-FuncionesMatematicasyCasting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/15-CondicionalesYPrioridadOperadores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/16-OperadorTernario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/17-Switch-case.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/1/18-CiclosWhileDoWhile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/20-Funciones.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/21-FuncionesParametrosPorValorYPorReferencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/Carro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/22-Poo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/Persona.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/25-Herencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/PersonaConModificarAcceso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/2/26-ModificadoresAcceso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/30-Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="50" column="99" selection-start-line="50" selection-start-column="99" selection-end-line="50" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/31-ArraysRecorrer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/33-ArraysMultidimencionales.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1486788385233" expanded="true" signature="1131:1137" ph=" " />
+            <marker date="1486788385233" expanded="true" signature="1137:1143" ph=" " />
+            <marker date="1486788385233" expanded="true" signature="1143:1149" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/datos.ods">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/datospersonales.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/36-ConexionBBDD-Procedimientos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <marker date="1486788563015" expanded="true" signature="1094:1123" ph="SELECT * FRO... DATOSPERSONALES" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/38-CompartirConexionConsultaCriterios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="12" />
+          <folding>
+            <marker date="1471308615295" expanded="true" signature="943:989" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1471308615295" expanded="true" signature="1552:1678" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/3/39-Consulta-ArrayPorAsociacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="44" column="63" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+          <folding>
+            <marker date="1471308615295" expanded="true" signature="377:383" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="383:389" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="389:395" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="395:401" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="464:470" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="470:476" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="476:482" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="482:488" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="539:545" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="545:551" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="551:557" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="557:563" ph=" " />
+            <marker date="1471308615295" expanded="true" signature="1518:1597" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1471308615295" expanded="true" signature="1963:2202" ph="..." />
+            <marker date="1471308615295" expanded="true" signature="2543:2869" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/40-formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/40-FormularioBusqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/40-resultadoBusqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1471308615298" expanded="true" signature="1139:1199" ph="SELECT * FRO... CAFESALUD" />
+            <marker date="1471308615298" expanded="true" signature="1497:1736" ph="..." />
+            <marker date="1471308615298" expanded="true" signature="2077:2403" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/41-BusquedaResultadoUnaPagina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/42-Formulario registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/42-IngresarDatosDDBB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1471308615298" expanded="true" signature="666:881" ph="INSERT INTO CAFESALUD... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/4/43-IngresarDatosDesdeFormulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1374">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

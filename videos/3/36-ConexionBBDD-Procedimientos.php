@@ -22,7 +22,7 @@ $dbBaseDatos = "personas";
 //ahora creamos la conexión
 
 $conexion = mysqli_connect($dbHost, $dbUsuario, $dbContrasena);
-//No pasamos el curto parametro con la intensión de saber mas en caso de error
+//No pasamos el cuarto parametro con la intensión de saber mas en caso de error
 
 //verificamos si se presento error de conexión
 

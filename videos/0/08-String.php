@@ -15,9 +15,9 @@ echo  "<p class='text-info bg-danger'>Este texto tiene las clases CSS entre comi
 
 echo "- Para comparar dos cadenas de pueden usar las funciones <code>strcmp</code> y <code>strcasecmp</code>.<br>";
 
-echo "- Podemos usar la barra invertida <code>\</code> para salvar un caracter, asi podemos usar en una misma linea la misma comilla.<br>";
-
 echo "- La primera diferencia entre mayusculas y minusculas, la segunda no lo hace.<br>";
+
+echo "- Podemos usar la barra invertida <code>\</code> para salvar un caracter, asi podemos usar en una misma linea la misma comilla.<br>";
 
 echo "- Estas funciones devuelven \"1\" en caso de ser verdadera, cadenas diferentes.<br>";
 

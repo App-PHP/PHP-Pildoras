@@ -5,8 +5,8 @@
  * Date: 09/06/2016
  * Time: 12:50
  */
-$nombre="Hernán V.";
-$id="151515";
+$nombre = "Hernán V.";
+$id = "1515515";
 
 
 print("El nombre es " . $nombre . " La identificación es " . $id . "<br>"); //Print es una función

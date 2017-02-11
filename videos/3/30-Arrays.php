@@ -23,7 +23,7 @@ $diasSemana[] = "Miercoles";
 echo "Mostranto el indice 1 en el primer array: " . $diasSemana[1] . "<br>";
 
 
-echo "<br><br><br>- Otra forma, si se tienen los datos al momentom de la creación del arreglo es separandolos por comas dentro de los corchetes. En esta forma se usan los parentesis y la palabra reservada <code>array('','','','')</code><br>";
+echo "<br><br><br>- Otra forma, si se tienen los datos al momento de la creación del arreglo es separandolos por comas dentro de los corchetes. En esta forma se usan los parentesis y la palabra reservada <code>array('','','','')</code><br>";
 
 echo "- Ejemplo.<br><br><br>";
 
@@ -31,7 +31,7 @@ $dias = array("Lunes", "Martes", "Mieroles");
 
 echo "Mostranto el indice 1 en el segundo array: " . $dias[1] . "<br>";
 
-echo "<br><br><br>- Para los arrays por referencia tambien se usa palabra reservada y operador fecha<code>array(nombre=>ValorNombre,....)</code><br>";
+echo "<br><br><br>- Para los arrays por referencia tambien se usa palabra reservada y operador flecha<code>array(nombre=>ValorNombre,....)</code><br>";
 echo "- Un error común es llamar las claves sin las comillas.<br>";
 
 $miArray = array("valor1" => "Uno", "valor2" => "Dos", "valor3" => "Tres", "valor4" => "Cuatro");

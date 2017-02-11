@@ -7,7 +7,7 @@
  */
 echo "<h2>Ambito de las Variables</h2>";
 echo "- En PHP Existen las variables locales, globales y superglobales<br>";
-echo "- Por defecto las variables locales no se pueden usar dentro de una funcion, ni las creadas dentrod e la función se pueden usar afuera<br>";
+echo "- Por defecto las variables locales no se pueden usar dentro de una funcion, ni las creadas dentro de la función se pueden usar afuera<br>";
 
 echo "- Para que una variable dentro de una funcion tome el valor de la variable con el mismo nombre de afuera de la función, se debe anteponer la palabra <code>global</code>.<br>";
 

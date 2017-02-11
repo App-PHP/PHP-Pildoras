@@ -8,7 +8,7 @@
 
 echo "<h2>Modificadores de acceso</h2>";
 
-echo "- Modularidad, difivir en modulos, dividir en clases.<br>";
+echo "- Modularidad, dividir en modulos, dividir en clases.<br>";
 
 echo "- Encapsulación, 'esconder' los metodos y atributos para otras clases.<br>";
 

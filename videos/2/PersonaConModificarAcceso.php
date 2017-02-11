@@ -72,7 +72,7 @@ class Profesor extends Persona
     function asignarId($id)
     {
         parent::asignarId($id);
-        echo "La edad fue asignada usanado el metodo creado en la superclase";
+        echo "La edad fue asignada usando el metodo creado en la superclase";
     }
 
 }

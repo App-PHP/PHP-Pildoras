@@ -33,7 +33,7 @@ if (is_array($datos)) {
 }
 
 
-echo "<br><br><br>- Para recorrer un array asociativose usa el bucle <code>foreach(nombreArray as clave=>valor)</code>. Con sus sisgnos dolar($)<br>";
+echo "<br><br><br>- Para recorrer un array asociativose usa el bucle <code>foreach(nombreArray as clave=>valor)</code>. Con sus signos dolar($)<br>";
 
 echo "- Ejemplo.<br><br><br>";
 
@@ -49,6 +49,7 @@ echo "<br><br><br>- Para recorrer un array indexado. Se hace como de costumbre c
 echo "- Ejemplo.<br><br><br>";
 
 $dias = array("Lunes", "Martes", "Mieroles", "Jueves", "Viernes", "Sabado", "Domingo");
+$dias[]="Otro Día";
 
 for ($i = 0; $i < count($dias); $i++) {
     echo $dias[$i] . ".<br>";

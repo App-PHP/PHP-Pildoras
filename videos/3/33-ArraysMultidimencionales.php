@@ -47,7 +47,7 @@ foreach ($alimentos as $claveAlimentos=>$valorAlimentos){
 }
 
 
-echo "- Una tercera forma es usndo la función <code>var_dump.<br>";
+echo "- Una tercera forma es usando la función <code>var_dump.<br>";
 
 echo "- Ejemplo.<br><br><br>";
 

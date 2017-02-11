@@ -17,11 +17,11 @@ echo "- Ejemplo.<br><br><br>";
 define("PI", 3.141516);
 
 print (PI."<br>");
-echo "El numero Pi es ". PI;
+echo "El numero Pi es " . PI;
 
 
 echo "<h2>Constantes Predefinidas, o Constantes magicas</h2>";
-echo "- Existen unas constantes propias del lenguaje, imortante conocerlas, algunas son<br>";
+echo "- Existen unas constantes propias del lenguaje, importante conocerlas, algunas son<br>";
 
 echo "- Ejemplo.<br><br><br>";
 echo  "El numero donde está escrita esta linea es: " . __LINE__. ". usando <code>__LINE__</code>.<br>";
